@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\bin\Debug\Rock,Scissors,Paper.exe.config
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\bin\Debug\Rock,Scissors,Paper.exe
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\bin\Debug\Rock,Scissors,Paper.pdb
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\obj\Debug\Rock,Scissors,Paper.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\obj\Debug\Rock,Scissors,Paper.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\obj\Debug\Rock,Scissors,Paper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\obj\Debug\Rock,Scissors,Paper.exe
+C:\Users\User\source\repos\Rock,Scissors,Paper\Rock,Scissors,Paper\obj\Debug\Rock,Scissors,Paper.pdb
